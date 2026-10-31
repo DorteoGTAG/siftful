@@ -1,0 +1,11 @@
+new.varible("score")
+score = 100
+score += 10
+print.inst("Score is:")
+print.inst(score)
+
+if.inst(score > 50) {
+    print.inst("You win!")
+} else.inst() {
+    print.inst("Try again")
+}
